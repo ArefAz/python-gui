@@ -1,0 +1,16 @@
+user = pi
+ip = 10.42.0
+FCW = Checked
+LDW = Checked
+Save-Input = Checked
+Save-Output = Unchecked
+Save-FCW = Checked
+Save-LDW = Unchecked
+Alarm = Checked
+Show-ROI = Unchecked
+Tracker = Unchecked
+Show-Detections = Unchecked
+Show-TTC = Unchecked
+Show-dist = Unchecked
+Display = Unchecked
+Regressor = Unchecked

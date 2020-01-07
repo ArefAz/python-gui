@@ -354,11 +354,6 @@ if __name__ == '__main__':
     ui_backend = UIBackend(main_window)
     main_window.ui = ui_backend
 
-    # main_window.stream_thread.width = int(ui_backend.stream_label.width())
-    # main_window.stream_thread.height = int(ui_backend.stream_label.height())
-    # print(ui_backend.stream_label.width())
-
-    # main_window.setFixedSize(main_window.size())
     main_window.show()
 
     sys.exit(app.exec_())
